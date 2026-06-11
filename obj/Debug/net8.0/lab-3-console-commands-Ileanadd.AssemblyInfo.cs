@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-console-commands-Ileanadd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48ad0579b3b5210a9cc956803b0af6c5c03d9198")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70382d56a07e89e3940131bb1bf4ad9ac16cb4e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-console-commands-Ileanadd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-console-commands-Ileanadd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
